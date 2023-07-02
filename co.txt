@@ -1,0 +1,2 @@
+
+INSERT INTO `sform` (`Name`, `Email`, `Age`, `Gender`, `Course`, `Date`) VALUES ('Prince', 'pp6601111@gmail.com', '18', 'male', 'BCA', '2023-04-08 08:02:36.000000');
